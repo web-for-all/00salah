@@ -1,0 +1,13 @@
+{
+  "name": "صلاتي",
+  "short_name": "صلاتي",
+  "description": "مواقيت الصلاة والأذكار",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#0b0e0d",
+  "theme_color": "#0b0e0d",
+  "dir": "rtl",
+  "lang": "ar",
+  "icons": [{"src":"icons/icon.svg","sizes":"any","type":"image/svg+xml","purpose":"any maskable"}]
+}
